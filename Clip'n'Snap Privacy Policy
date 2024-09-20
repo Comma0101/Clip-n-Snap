@@ -1,0 +1,35 @@
+Here’s a privacy policy tailored to your extension, stating that you do not handle or collect any user data:
+
+---
+
+### **Clip'n'Snap Privacy Policy**
+
+**Last Updated:** [Insert Date]
+
+At Clip'n'Snap, we prioritize the privacy and security of our users. This privacy policy outlines our practices regarding the collection, use, and sharing of personal data in connection with the Clip'n'Snap Chrome extension.
+
+### **Data Collection**
+We do **not** collect, store, or process any personal or sensitive user data. The Clip'n'Snap Chrome extension operates entirely within your browser and does not transmit any information, including personal data, to external servers or third parties.
+
+### **Data Usage**
+As we do not collect any data, we do not use or process any user information. All screenshot functionality provided by Clip'n'Snap is performed locally on your device and does not involve the exchange of data outside your browser.
+
+### **Data Sharing**
+Since we do not collect any user data, there is no information to share with third parties. Clip'n'Snap does not share any information with advertisers, data brokers, or other external entities.
+
+### **Permissions**
+Clip'n'Snap requires certain permissions to perform its core functions, such as capturing screenshots of your browser tab. These permissions are used solely to execute the extension's features and are not used to collect or transmit any user data.
+
+### **Changes to This Policy**
+We may update this privacy policy from time to time. If we make any material changes, we will post the updated policy on this page. We encourage users to review this policy periodically to stay informed about how we are protecting their privacy.
+
+### **Contact Us**
+If you have any questions or concerns about this privacy policy or the Clip'n'Snap extension, feel free to contact us at [Insert Email Address].
+
+---
+
+### **How to Use This Policy:**
+1. **Include the Privacy Policy on a Publicly Accessible Website**: You can host this policy on a simple web page. If you don’t have a website, you can use a service like Google Sites, GitHub Pages, or any other hosting service to publish it.
+2. **Provide a Link to the Privacy Policy**: Once published, copy the URL of the privacy policy and paste it into the **"Privacy Policy"** field in the Chrome Web Store Developer Dashboard.
+
+This will satisfy the Chrome Web Store's requirement for having a privacy policy, even though you don’t collect any data. Let me know if you need further assistance!
